@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "646059448950-eikc9q9ifmcghtrofsv6n7qgcimg5gje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cerdascermat",
+            "certificate_hash": "b9cced7cdd07f908ff751a024468b593c7f696a5"
+          }
+        },
+        {
           "client_id": "646059448950-dua4b21pummpm1ikci1qcj1kbskgdqmn.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
