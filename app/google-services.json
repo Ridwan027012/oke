@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "646059448950",
+    "firebase_url": "https://cerdascermat-dd351.firebaseio.com",
+    "project_id": "cerdascermat-dd351",
+    "storage_bucket": "cerdascermat-dd351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646059448950:android:a94fc3e0d924a831715d57",
+        "android_client_info": {
+          "package_name": "com.example.cerdascermat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646059448950-dua4b21pummpm1ikci1qcj1kbskgdqmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cerdascermat",
+            "certificate_hash": "9f016dd71f94100a69cd62598d352b444e5ac7bd"
+          }
+        },
+        {
+          "client_id": "646059448950-be5mocs4d7uh6s2egr4k84036rigk65j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxvJvL7kbaO0qjGJCRkLnKVC8FERRl1Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646059448950-be5mocs4d7uh6s2egr4k84036rigk65j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
