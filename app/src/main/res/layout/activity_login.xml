@@ -8,6 +8,7 @@
     tools:context=".LoginActivity"
     android:padding="20dp">
 
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -37,7 +38,6 @@
             android:hint="Email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-
             />
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -62,10 +62,13 @@
         android:id="@+id/registerBtn"
         android:text="Login"
         android:layout_below="@+id/passwordTIL"
-        style="@style/Base.Widget.AppCompat.Button.Colored"
+        android:textColor="@color/colorwhite"
+        android:background="@color/colorPrimaryDark"
         android:layout_centerHorizontal="true"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -89,7 +92,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/registerBtn"
             android:text="Register"
-            android:textColor="@color/colorAccent"
+            android:textColor="@color/colorPrimaryDark"
             android:paddingLeft="10px"
             />
     </LinearLayout>
